@@ -1,0 +1,16 @@
+{
+  "name": "trouveunnombreretrogaming",
+  "version": "1.0.0",
+  "description": "Programmation d'un jeu pour trouver un nombre entre 0 et 10.",
+  "main": "exo.js",
+  "dependencies": {
+    "figlet": "^1.2.0",
+    "kbd": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivier",
+  "license": "ISC"
+}
